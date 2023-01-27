@@ -1,0 +1,15 @@
+E:\GeekBrains\C#\Seminar_7\tusk_47\bin\Debug\net7.0\tusk_47.exe
+E:\GeekBrains\C#\Seminar_7\tusk_47\bin\Debug\net7.0\tusk_47.deps.json
+E:\GeekBrains\C#\Seminar_7\tusk_47\bin\Debug\net7.0\tusk_47.runtimeconfig.json
+E:\GeekBrains\C#\Seminar_7\tusk_47\bin\Debug\net7.0\tusk_47.dll
+E:\GeekBrains\C#\Seminar_7\tusk_47\bin\Debug\net7.0\tusk_47.pdb
+E:\GeekBrains\C#\Seminar_7\tusk_47\obj\Debug\net7.0\tusk_47.csproj.AssemblyReference.cache
+E:\GeekBrains\C#\Seminar_7\tusk_47\obj\Debug\net7.0\tusk_47.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\C#\Seminar_7\tusk_47\obj\Debug\net7.0\tusk_47.AssemblyInfoInputs.cache
+E:\GeekBrains\C#\Seminar_7\tusk_47\obj\Debug\net7.0\tusk_47.AssemblyInfo.cs
+E:\GeekBrains\C#\Seminar_7\tusk_47\obj\Debug\net7.0\tusk_47.csproj.CoreCompileInputs.cache
+E:\GeekBrains\C#\Seminar_7\tusk_47\obj\Debug\net7.0\tusk_47.dll
+E:\GeekBrains\C#\Seminar_7\tusk_47\obj\Debug\net7.0\refint\tusk_47.dll
+E:\GeekBrains\C#\Seminar_7\tusk_47\obj\Debug\net7.0\tusk_47.pdb
+E:\GeekBrains\C#\Seminar_7\tusk_47\obj\Debug\net7.0\tusk_47.genruntimeconfig.cache
+E:\GeekBrains\C#\Seminar_7\tusk_47\obj\Debug\net7.0\ref\tusk_47.dll
