@@ -1,0 +1,15 @@
+E:\GeekBrains\C#\Seminar_7\tusk_50\bin\Debug\net7.0\tusk_50.exe
+E:\GeekBrains\C#\Seminar_7\tusk_50\bin\Debug\net7.0\tusk_50.deps.json
+E:\GeekBrains\C#\Seminar_7\tusk_50\bin\Debug\net7.0\tusk_50.runtimeconfig.json
+E:\GeekBrains\C#\Seminar_7\tusk_50\bin\Debug\net7.0\tusk_50.dll
+E:\GeekBrains\C#\Seminar_7\tusk_50\bin\Debug\net7.0\tusk_50.pdb
+E:\GeekBrains\C#\Seminar_7\tusk_50\obj\Debug\net7.0\tusk_50.csproj.AssemblyReference.cache
+E:\GeekBrains\C#\Seminar_7\tusk_50\obj\Debug\net7.0\tusk_50.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\C#\Seminar_7\tusk_50\obj\Debug\net7.0\tusk_50.AssemblyInfoInputs.cache
+E:\GeekBrains\C#\Seminar_7\tusk_50\obj\Debug\net7.0\tusk_50.AssemblyInfo.cs
+E:\GeekBrains\C#\Seminar_7\tusk_50\obj\Debug\net7.0\tusk_50.csproj.CoreCompileInputs.cache
+E:\GeekBrains\C#\Seminar_7\tusk_50\obj\Debug\net7.0\tusk_50.dll
+E:\GeekBrains\C#\Seminar_7\tusk_50\obj\Debug\net7.0\refint\tusk_50.dll
+E:\GeekBrains\C#\Seminar_7\tusk_50\obj\Debug\net7.0\tusk_50.pdb
+E:\GeekBrains\C#\Seminar_7\tusk_50\obj\Debug\net7.0\tusk_50.genruntimeconfig.cache
+E:\GeekBrains\C#\Seminar_7\tusk_50\obj\Debug\net7.0\ref\tusk_50.dll
